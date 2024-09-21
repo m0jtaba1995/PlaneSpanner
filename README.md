@@ -7,3 +7,6 @@ Additionally, these algorithms have been tested on over **7,000 point sets** in 
 
 You can download the dataset used in this project via the following link:
 [Dataset Download](https://drive.google.com/file/d/1wgNNGD_jtzxBlxuRIh9M7BGz7CqctZXS/view?usp=sharing)
+
+You can also download the t_spanners Constructed by this project from the following link:
+[Output Data Download](https://drive.google.com/file/d/1BA7_2fkyHj-QvS4zWOj5Etby5BeuIyt1/view?usp=sharing)

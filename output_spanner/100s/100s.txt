@@ -1,0 +1,39 @@
+Complete graph Weight: 17190.1  MST Weight: 1.50039
+Get MST Weight Time : 0.0226377 seconds
+
+Diametral Plane Spanner Time : 0.00998813 seconds
+Approximate Diametral Plane Spanner Time : 0.0155033 seconds
+Proposed Plane Spanner Time : 0.06426 seconds
+
+Proposed dilation: 1.40866
+
+Diametral graph weight: 41.667
+Approximate Diametral graph weight: 41.6106
+Proposed graph weight: 37.6517
+
+Total build Graph time: 0.00105049 seconds
+
+Diametral max degree: 103
+Diametral graph size: 597
+
+Approximate max degree: 103
+Approximate graph size: 597
+
+Proposed max degree: 95
+Proposed graph size: 597
+
+Stretch Factor Time of Diametral Plane Spanner: 0.00654571 seconds
+Stretch Factor Time of Approximate Diametral Plane Spanner: 0.00649017 seconds
+Stretch Factor Time of Proposed Plane Spanner: 0.00614008 seconds
+
+Diametral Stretch Factor: 1.45746
+Approximate Diametral Stretch Factor: 1.55246
+Proposed Stretch Factor: 1.36146
+
+compute diametral t spanner diameter time: 0.00969465 seconds
+compute approximate diametral t spanner diameter time: 0.00648219 seconds
+compute proposed t spanner diameter time: 0.00744361 seconds
+
+Proposed diameter: 32
+Diametral diameter: 39
+Approximate diameter: 27
